@@ -6,7 +6,10 @@
             "is_experimental": false
         },
         "components": {
-            "minecraft:max_stack_size": 1
-        }
+      "minecraft:max_stack_size": 1
+    },
+    "minecraft:icon": {
+      "texture": "rsmc:emerald_sword_tip"
     }
-}
+  }
+ }
