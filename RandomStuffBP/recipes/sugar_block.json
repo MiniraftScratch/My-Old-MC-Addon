@@ -15,11 +15,11 @@
             }
         },
         "result": {
-            "item": "helloworld:sugar_block",
+            "item": "rsmc:sugar_block",
             "count": 1
         },
         "description": {
-            "identifier": "helloworld:sugar_block"
+            "identifier": "rsmc:sugar_block"
         }
     }
 }

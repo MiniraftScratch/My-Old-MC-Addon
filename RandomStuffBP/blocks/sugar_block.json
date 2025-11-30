@@ -2,7 +2,7 @@
     "format_version": "1.16.0",
     "minecraft:block": {
         "description": {
-            "identifier": "helloworld:sugar_block",
+            "identifier": "rsmc:sugar_block",
             "is_experimental": false,
             "register_to_creative_menu": true
         },

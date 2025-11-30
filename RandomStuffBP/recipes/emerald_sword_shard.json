@@ -4,9 +4,9 @@
         "tags": [
             "furnace"
         ],
-        "output": "helloworld:emerald_sword_tip",
+        "output": "rsmc:emerald_sword_tip",
         "input": {
-            "item": "helloworld:emerald_shard"
+            "item": "rsmc:emerald_shard"
         },
         "description": {
             "identifier": "emerald_shard"

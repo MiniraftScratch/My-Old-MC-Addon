@@ -2,7 +2,7 @@
     "format_version": "1.16.0",
     "minecraft:block": {
         "description": {
-            "identifier": "helloworld:oak_pillar",
+            "identifier": "rsmc:oak_pillar",
             "is_experimental": false,
             "register_to_creative_menu": true
         },

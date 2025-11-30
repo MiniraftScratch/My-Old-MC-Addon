@@ -2,7 +2,7 @@
   "format_version": "1.21.0",
 "minecraft:item": {
 "description": {
-"identifier": "RSMC:emerald_sword",
+"identifier": "rsmc:emerald_sword",
 "category": "Equipment"
 },
 "components": {

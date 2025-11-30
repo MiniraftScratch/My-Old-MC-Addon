@@ -19,11 +19,11 @@
             }
         },
         "result": {
-            "item": "helloworld:canvasblock",
+            "item": "rsmc:canvasblock",
             "count": 1
         },
         "description": {
-            "identifier": "helloworld:canvasblock"
+            "identifier": "rsmc:canvasblock"
         }
     }
 }

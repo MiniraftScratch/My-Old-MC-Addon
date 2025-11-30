@@ -16,11 +16,11 @@
             }
         },
         "result": {
-            "item": "helloworld:oak_pillar",
+            "item": "rsmc:oak_pillar",
             "count": 3
         },
         "description": {
-            "identifier": "helloworld:oak_pillar"
+            "identifier": "rsmc:oak_pillar"
         }
     }
 }

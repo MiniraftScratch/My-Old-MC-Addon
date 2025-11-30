@@ -2,7 +2,7 @@
     "format_version": "1.16.0",
     "minecraft:block": {
         "description": {
-            "identifier": "helloworld:fire_glass",
+            "identifier": "rsmc:fire_glass",
             "is_experimental": false,
             "register_to_creative_menu": true
         },

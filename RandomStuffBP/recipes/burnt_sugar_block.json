@@ -4,9 +4,9 @@
         "tags": [
             "furnace"
         ],
-        "output": "helloworld:burnt_sugar_block",
+        "output": "rsmc:burnt_sugar_block",
         "input": {
-            "item": "helloworld:sugar_block"
+            "item": "rsmc:sugar_block"
         },
         "description": {
             "identifier": "burnt_sugar_block"

@@ -2,7 +2,7 @@
   "format_version": "1.21.0",
 "minecraft:item": {
 "description": {
-"identifier": "helloworld:emerald_sword_shard",
+"identifier": "rsmc:emerald_sword_shard",
 "category": "Equipment"
 },
 "components": {
