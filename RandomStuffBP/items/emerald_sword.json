@@ -3,18 +3,20 @@
     "minecraft:item": {
         "description": {
             "identifier": "rsmc:emerald_sword",
-            "category": "Equipment"
+            "category": "equipment"
         },
         "components": {
             "minecraft:max_stack_size": 1,
             "minecraft:creative_category": {
 				    "parent": "itemGroup.name.sword"},
-"minecraft:durability": {
-				"max_durability": 1500
-			},
-"minecraft:icon": {
-				"texture": "rsmc:emerald_sword"
-			},
+            "minecraft:can_destroy_in_creative": false,
+            "minecraft:weapon": {},
+            "minecraft:durability": {
+	      			"max_durability": 1500
+	  		},
+            "minecraft:icon": {
+				      "texture": "rsmc:emerald_sword"
+		  	},
             "minecraft:damage": 8,
             "minecraft:max_damage": 16,
             "minecraft:hand_equipped": true
