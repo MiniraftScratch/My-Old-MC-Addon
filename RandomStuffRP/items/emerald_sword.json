@@ -6,7 +6,7 @@
 "category": "Equipment"
 },
 "components": {
-"minecraft:icon": "emerald_sword",
+"minecraft:icon": "rsmc:emerald_sword",
 "minecraft:render_offsets": "tools"
 }
 }

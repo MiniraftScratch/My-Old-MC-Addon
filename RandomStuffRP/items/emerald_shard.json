@@ -6,7 +6,7 @@
 "category": "Equipment"
 },
 "components": {
-"minecraft:icon": "emerald_shard",
+"minecraft:icon": "rsmc:emerald_shard",
 "minecraft:render_offsets": "tools"
 }
 }

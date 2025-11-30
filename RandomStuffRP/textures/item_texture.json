@@ -2,14 +2,14 @@
 	"resource_pack_name": "RandomStuffRP",
 	"texture_name": "atlas.items",
 	"texture_data": {
-		"emerald_sword": {
+		"rsmc:emerald_sword": {
 			"textures": "textures/items/emerald_sword"
 		},
-    "emerald_shard": {
+    "rsmc:emerald_shard": {
 			"textures": "textures/items/emerald_shard"
 		},
-		"emerald_sword_shard": {
-			"textures": "textures/items/emerald_sword_shard"
+		"rsmc:emerald_sword_tip": {
+			"textures": "textures/items/emerald_sword_tip"
 		}
 	}
 }
