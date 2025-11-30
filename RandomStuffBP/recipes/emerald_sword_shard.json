@@ -4,12 +4,12 @@
         "tags": [
             "furnace"
         ],
-        "output": "helloworld:emerald_sword_shard",
+        "output": "helloworld:emerald_sword_tip",
         "input": {
-            "item": "helloworld:emerald_ore_sword_shard"
+            "item": "helloworld:emerald_shard"
         },
         "description": {
-            "identifier": "emerald_sword_shard"
+            "identifier": "emerald_shard"
         }
     }
 }

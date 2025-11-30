@@ -1,11 +1,11 @@
 {
-  "format_version": "1.12.0",
+  "format_version": "1.21.0",
 "minecraft:item": {
 "description": {
 "identifier": "helloworld:emerald_sword_shard",
 "category": "Equipment"
 },
-"components":
+"components": {
 "minecraft:icon":"emerald_sword_shard",
 "minecraft:render_offsets": "tools"
 }

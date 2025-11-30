@@ -1,11 +1,11 @@
 {
-  "format_version": "1.10",
+  "format_version": "1.21.0",
 "minecraft:item": {
 "description": {
-"identifier": "helloworld:emerald_sword",
+"identifier": "RSMC:emerald_sword",
 "category": "Equipment"
 },
-"components":
+"components": {
 "minecraft:icon": "emerald_sword",
 "minecraft:render_offsets": "tools"
 }
