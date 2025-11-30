@@ -2,11 +2,11 @@
   "format_version": "1.21.0",
 "minecraft:item": {
 "description": {
-"identifier": "rsmc:emerald_sword_shard",
+"identifier": "rsmc:emerald_sword_tip",
 "category": "Equipment"
 },
 "components": {
-"minecraft:icon":"rsmc:emerald_sword_shard",
+"minecraft:icon":"rsmc:emerald_sword_tip",
 "minecraft:render_offsets": "tools"
 }
 }
