@@ -1,0 +1,35 @@
+{
+  "resource_pack_name": "HelloWorldBP",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "canvasblock": {
+      "textures": "textures/blocks/canvasblock"
+    },
+    "canvas_top":{
+      "textures": "textures/blocks/canvas_top"
+    },
+"oak_pillar_top":{
+      "textures": "textures/blocks/oak_pillar_top"
+    },
+"oak_pillar_side":{
+      "textures": "textures/blocks/oak_pillar_side"
+},
+"fire_glass_block":{
+      "textures": "textures/blocks/fire_glass_block"
+},
+"clear_glass":{
+      "textures": "textures/blocks/clear_glass"
+},
+"sugar_block":{
+      "textures": "textures/blocks/sugar_block"
+},
+"burnt_sugar_block":{
+      "textures": "textures/blocks/burnt_sugar_block"
+},
+"smooth_oak_pillar_side":{
+      "textures": "textures/blocks/smooth_oak_pillar_side"
+    }
+  }
+}

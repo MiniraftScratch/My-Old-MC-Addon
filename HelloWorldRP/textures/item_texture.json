@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "HelloWorldBP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"emerald_sword": {
+			"textures": "textures/items/emerald_sword"
+		},
+                "emerald_ore_sword_shard": {
+			"textures": "textures/items/emerald_ore_sword_shard"
+		},
+		"emerald_sword_shard": {
+			"textures": "textures/items/emerald_sword_shard"
+		}
+	}
+}

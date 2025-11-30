@@ -1,0 +1,59 @@
+{
+"format_version": "1.16.0",
+  "helloworld:canvasblock": {
+    "textures": {
+        "up": "canvas_top",
+        "down": "canvas_top",
+        "side": "canvasblock"
+        },
+    "sound":"planks"
+    },
+"helloworld:oak_pillar": {
+    "textures": {
+        "up": "oak_pillar_top",
+        "down": "oak_pillar_top",
+        "side": "oak_pillar_side"
+        },
+    "sound":"planks"
+  },
+"helloworld:fire_glass": {
+    "textures": {
+        "up": "fire_glass_block",
+        "down": "fire_glass_block",
+        "side": "fire_glass_block"
+        },
+    "sound":"glass"
+  },
+"helloworld:clear_glass": {
+    "textures": {
+        "up": "clear_glass",
+        "down": "clear_glass",
+        "side": "clear_glass"
+        },
+    "sound":"stone"
+  },
+"helloworld:sugar_block": {
+    "textures": {
+        "up": "sugar_block",
+        "down": "sugar_block",
+        "side": "sugar_block"
+        },
+    "sound":"sand"
+},
+"helloworld:burnt_sugar_block": {
+    "textures": {
+        "up": "burnt_sugar_block",
+        "down": "burnt_sugar_block",
+        "side": "burnt_sugar_block"
+        },
+    "sound":"dirt"
+  },
+"helloworld:smooth_oak_pillar": {
+    "textures": {
+        "up": "oak_pillar_top",
+        "down": "oak_pillar_top",
+        "side": "smooth_oak_pillar_side"
+        },
+    "sound":"planks"
+    }
+}
