@@ -2,8 +2,7 @@
     "format_version": "1.21.0",
     "minecraft:item": {
         "description": {
-            "identifier": "rsmc:emerald_sword_tip",
-            "is_experimental": false
+            "identifier": "rsmc:emerald_sword_tip"
         },
         "components": {
       "minecraft:max_stack_size": 1
