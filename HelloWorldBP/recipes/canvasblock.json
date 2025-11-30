@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            " # ",
+            "#X#",
+            " # "
+        ],
+        "key": {
+            "X": {
+                "item": "minecraft:planks",
+                "data": 0
+            },
+"#": {
+                "item": "minecraft:paper"
+            }
+        },
+        "result": {
+            "item": "helloworld:canvasblock",
+            "count": 1
+        },
+        "description": {
+            "identifier": "helloworld:canvasblock"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#",
+            "#",
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:planks",
+                "data": 0
+            }
+        },
+        "result": {
+            "item": "helloworld:oak_pillar",
+            "count": 3
+        },
+        "description": {
+            "identifier": "helloworld:oak_pillar"
+        }
+    }
+}

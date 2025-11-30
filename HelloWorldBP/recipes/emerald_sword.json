@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#",
+            "S"
+        ],
+        "key": {
+            "#": {
+                "item": "helloworld:emerald_sword_shard"
+            },
+            "S": {
+                "item": "minecraft:stick",
+                "data": 0
+            }
+        },
+        "result": {
+            "item": "helloworld:emerald_sword",
+            "count": 1
+        },
+        "description": {
+            "identifier": "emerald_sword"
+        }
+    }
+}

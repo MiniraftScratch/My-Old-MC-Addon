@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            " _ ",
+           "_P_",
+            " _ "
+        ],
+        "key": {
+            "_": {
+                "item": "minecraft:glass",
+                "data": 0
+            },
+            "P": {
+                "item": "minecraft:fire_charge",
+                "data": 0
+            }
+        },
+        "result": {
+            "item": "helloworld:fire_glass",
+            "count": 4
+        },
+        "description": {
+            "identifier": "crafting:recipe"
+        }
+    }
+}
