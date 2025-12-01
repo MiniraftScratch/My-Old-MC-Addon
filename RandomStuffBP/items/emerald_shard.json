@@ -1,14 +1,12 @@
 {
-    "format_version": "1.16.0",
+    "format_version": "1.21.0",
     "minecraft:item": {
         "description": {
             "identifier": "rsmc:emerald_shard"
         },
       "components": {
-        "minecraft:max_stack_size": 1
-      },
-        "minecraft:icon": {
-          "texture": "rsmc:emerald_sword"
-        }
+        "minecraft:max_stack_size": 1,
+        "minecraft:icon": "emerald_shard"
+      }
       }
 }
