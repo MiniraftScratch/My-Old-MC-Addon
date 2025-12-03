@@ -4,7 +4,7 @@
     "description": "My First Add-On!",
     "name": "RandomStuffBP",
     "uuid":"0fd78c6f-1451-497a-a07e-5bbdceab155a",
-    "version": [2, 1, 1],
+    "version": [2, 2, 0],
     "min_engine_version": [1, 21, 0]
   },
   "modules": 
@@ -13,7 +13,7 @@
         "description": "My First Add-On!",
           "type": "data",
           "uuid": "0228be46-22eb-445b-88e3-2caf9965a930",
-          "version": [2, 1, 1]
+          "version": [2, 2, 0]
       }
     ],
   "dependencies":[{"uuid":"3f0134db-ea7c-464b-b364-b31d43bfb8c9",
