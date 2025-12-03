@@ -7,7 +7,7 @@
       "components": {
         "minecraft:max_stack_size": 1,
         "minecraft:icon": "emerald_sword_tip",
-        "minecraft:damage": 8,
+        "minecraft:damage": 4,
         "minecraft:can_destroy_in_creative": false,
         "minecraft:hand_equipped": true,
         "minecraft:durability": {
