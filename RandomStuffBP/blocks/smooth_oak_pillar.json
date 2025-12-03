@@ -14,7 +14,7 @@
       "minecraft:destructible_by_explosion": {
         "explosion_resistance": 5
       },
-      "minecraft:friction": 0.6,
+      "minecraft:friction": 0.4,
       "minecraft:flammable": {
         "flame_odds": 1,
         "burn_odds": 1
