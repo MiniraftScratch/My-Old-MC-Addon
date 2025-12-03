@@ -4,14 +4,14 @@
         "description": "My First Add-On!",
 	    "name": "RandomStuffRP",
 	    "uuid":"3f0134db-ea7c-464b-b364-b31d43bfb8c9",
-	    "version":[2,0,0],
+	    "version":[2,1,0],
 	    "min_engine_version": [1, 21, 0]
 	  },
 	  "modules":[{
 	      "description": "My First Add-On!",
 	      "type": "resources",
 	      "uuid": "6441bedf-bb28-44e0-a7eb-3f0b4bb710f7",
-	      "version": [2, 0, 0]
+	      "version": [2, 1, 0]
 	    }
 	  ]
 	}

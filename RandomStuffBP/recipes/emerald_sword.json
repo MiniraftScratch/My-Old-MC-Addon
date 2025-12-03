@@ -1,28 +1,33 @@
 {
-    "format_version": "1.19",
-    "minecraft:recipe_shaped": {
-        "tags": [
-            "crafting_table"
-        ],
-        "pattern": [
-            "#",
-            "S"
-        ],
-        "key": {
-            "#": {
-                "item": "rsmc:emerald_sword_tip"
-            },
-            "S": {
-                "item": "minecraft:stick",
-                "data": 0
-            }
-        },
-        "result": {
-            "item": "rsmc:emerald_sword",
-            "count": 1
-        },
-        "description": {
-            "identifier": "emerald_sword"
-        }
-    }
+    "format_version": "1.21",
+  "minecraft:recipe_shaped": {
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#",
+      "S"
+    ],
+    "key": {
+      "#": {
+        "item": "rsmc:emerald_sword_tip"
+      },
+      "S": {
+        "item": "minecraft:stick",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "rsmc:emerald_sword",
+      "count": 1
+    },
+    "description": {
+      "identifier": "emerald_sword"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:stick"
+      }
+    ]
+  }
 }

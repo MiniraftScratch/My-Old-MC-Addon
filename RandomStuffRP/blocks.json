@@ -4,7 +4,7 @@
     "textures": {
         "up": "canvas_top",
         "down": "canvas_top",
-        "side": "canvasblock"
+        "side": "canvas"
         },
     "sound":"planks"
     },
@@ -18,17 +18,17 @@
   },
 "rsmc:fire_glass": {
     "textures": {
-        "up": "fire_glass_block",
-        "down": "fire_glass_block",
-        "side": "fire_glass_block"
+        "up": "fire_glass",
+        "down": "fire_glass",
+        "side": "fire_glass"
         },
     "sound":"glass"
   },
-"rsmc:clear_glass": {
+"rsmc:blank_block": {
     "textures": {
-        "up": "clear_glass",
-        "down": "clear_glass",
-        "side": "clear_glass"
+        "up": "blank_block",
+        "down": "blank_block",
+        "side": "blank_block"
         },
     "sound":"stone"
   },

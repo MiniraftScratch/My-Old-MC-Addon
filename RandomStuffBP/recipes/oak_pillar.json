@@ -1,26 +1,32 @@
 {
-    "format_version": "1.19",
-    "minecraft:recipe_shaped": {
-        "tags": [
-            "crafting_table"
-        ],
-        "pattern": [
-            "#",
-            "#",
-            "#"
-        ],
-        "key": {
-            "#": {
-                "item": "minecraft:planks",
-                "data": 0
-            }
-        },
-        "result": {
-            "item": "rsmc:oak_pillar",
-            "count": 3
-        },
-        "description": {
-            "identifier": "rsmc:oak_pillar"
-        }
-    }
+    "format_version": "1.21",
+  "minecraft:recipe_shaped": {
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#",
+      "#",
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:planks",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "rsmc:oak_pillar",
+      "count": 3
+    },
+    "description": {
+      "identifier": "rsmc:oak_pillar"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:planks",
+        "data": 0
+      }
+    ]
+  }
 }
